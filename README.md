@@ -1,5 +1,5 @@
 # First
 My first website
 
-## my favorite class
+## my favorite team
 ![Alt Logo](channels4_profile.jpg)
