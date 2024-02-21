@@ -2,4 +2,4 @@
 My first website
 
 ## my favorite class
-![amazing class](capture.jpg)
+![amazing tean](Capture.JPG)
