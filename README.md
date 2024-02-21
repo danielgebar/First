@@ -2,4 +2,4 @@
 My first website
 
 ## my favorite class
-![Our Logo](channels3_profile.jpg)
+![Our Logo](channels4_profile.jpg)
