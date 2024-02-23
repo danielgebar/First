@@ -1,4 +1,4 @@
-# The Los Angeles lakers
+# The Los Angeles Lakers
 A website providng news and feedback on the greatest franchise EVER!
 
 ## my favorite team
